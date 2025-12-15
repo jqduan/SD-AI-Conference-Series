@@ -1,0 +1,15 @@
+# 第一届随机动力系统会议
+# The 1st Workshop on Stochastic Dynamical Systems
+
+## 基本信息 / Basic Information
+- [cite_start]**时间 (Date):** 2023年6月14日 - 6月18日 [cite: 4, 13]
+- [cite_start]**地点 (Location):** 中国·武汉 (Wuhan, China) [cite: 11]
+- [cite_start]**主办单位 (Host):** 国家天元数学中部中心 (Tianyuan Mathematical Center in Central China), 武汉大学, 华中科技大学数学中心 [cite: 9, 14]
+
+## 会议概览 / Overview
+[cite_start]本次会议深入讨论了随机动力系统、随机分析与计算及在数据科学热点问题中的新研究。重点关注随机偏微分方程、随机动力系统的理论方法及其在生物物理中的应用 [cite: 14]。
+The conference discussed in depth new research in stochastic dynamical systems, stochastic analysis and computation, and hot topics in data science. It focused on SPDEs, theoretical methods of stochastic dynamical systems, and their applications in biophysics.
+
+## 会议留影 / Group Photo
+![First Edition Group Photo](group_photo.jpg)
+[cite_start]*(2023年6月15日于武汉 / Taken in Wuhan on June 15, 2023)* [cite: 13]
